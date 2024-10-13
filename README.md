@@ -1,7 +1,7 @@
-# Vulnerability Test
+#  CyberAttack Prediction using Deep Learning Models
 
 ## Overview
-This repository contains the python code for the classification of network traffic data using LSTM (Long Short Term Memory) with 
+This repository contains the Python code for the classification of network traffic data using LSTM (Long Short Term Memory) with 
 CNN (Convolutional Neural Network) model. The supervised machine learning model classifies the network traffic records as Normal or Anomalous.
 
 ## Dataset
@@ -18,5 +18,5 @@ If running in a local environment, the following command can be used to install 
 This repository is divided into the following sections:
 
   - Load Data and perform EDA  
-  - Define and Train Model
+  - Define and Train the Model
 
